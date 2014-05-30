@@ -1,0 +1,12 @@
+name: Polis
+description: "A blog about the city"
+meta_description: "A blog about the city"
+
+markdown: redcarpet
+pygments: true
+logo: false
+paginate: 15
+
+# Details for the RSS feed generator
+url:            'ameyakarve.com/polis/'
+author:         'Ameya Karve'
