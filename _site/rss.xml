@@ -8,5 +8,14 @@
     <title>Polis</title>
     <link>ameyakarve.com/polis/</link>
     <description>A blog about the city</description>
+    <pubDate>Sat, 21 Apr 2012 15:48:00 +0530</pubDate>
+    <item>
+      <title>Shaniwarwada</title>
+      <link>ameyakarve.com/polis//heritage/walk/2012/04/21/Shaniwarwada.html</link>
+      <description></description>
+      <pubDate>Sat, 21 Apr 2012 15:48:00 +0530</pubDate>
+      <dc:date>2012-04-21T15:48:00+05:30</dc:date>
+    </item>
+    <dc:date>2012-04-21T15:48:00+05:30</dc:date>
   </channel>
 </rss>
